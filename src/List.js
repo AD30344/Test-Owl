@@ -13,7 +13,7 @@ function List(props) {
             onStageSpan = <div className="status-light-box"><div className="light-green"></div><br/><span className="stage-status">On Stage</span></div>
         }
         // if(!participant.inSession){
-        //     //if they not insesstion
+        //     //if they not in session
         // }else{
 
         // }
