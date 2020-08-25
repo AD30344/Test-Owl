@@ -19,6 +19,11 @@
     background-color: green;
     border-radius: 50%;
 }
+
+.stage{
+    background-color: grey;
+    height:100vh;
+}
 .participant-list .stage-status{
     padding-left: 10px;
 }
