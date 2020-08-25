@@ -1,0 +1,37 @@
+.participant-list img{
+    width: 50px;
+    height: auto;
+}
+.participant-list .light-red-box{
+    /* margin-left: 14%; */
+}
+.participant-list .light-red{
+    content:"";
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+}
+.participant-list .light-green{
+    content:"";
+    width:20px;
+    height: 20px;
+    background-color: green;
+    border-radius: 50%;
+}
+.participant-list .stage-status{
+    padding-left: 10px;
+}
+.participant-list .participant{
+    display: flex;
+}
+.participant-list .status-light-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.participant-list .Name-Status-Stage-Box{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
